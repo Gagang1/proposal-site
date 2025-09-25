@@ -23,6 +23,8 @@ You make me smile, you make my heart beat faster, and you make me want to be a b
 
 I don’t know what the future holds, but one thing is clear.
 You are different from other girls yaar
+Bas apko dekha baar se hi mera day ban jata hai yaar 
+and please ye kisi ko send mat karna apne tak hi rakhna
 I LIKE YOU KHU.`
 
   useEffect(() => {
