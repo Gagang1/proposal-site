@@ -47,14 +47,14 @@ export default function ProposalSite() {
           <QuestionScreen
             key="question2"
             question="Do you like me?"
-            onYes={() => nextScreen("balloons")}
+            onYes={() => nextScreen("final")}
             isFirst={false}
           />
         )}
 
         {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("photos")} />}
 
-        {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("final")} />}
+        {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("question2")} />}
 
         {currentScreen === "final" && <FinalScreen key="final" />}
       </AnimatePresence>
