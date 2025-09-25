@@ -6,7 +6,7 @@ import { ArrowRight, Heart } from "lucide-react"
 
 export default function BalloonsScreen({ onNext }) {
 
-  const balloons = [{ text: "I", color: "fill-pink-500/50" }, { text: "Love", color: "fill-rose-500/50" }, { text: "You", color: "fill-purple-500/50" }]
+  const balloons = [{ text: "I", color: "fill-pink-500/50" }, { text: "Like", color: "fill-rose-500/50" }, { text: "You", color: "fill-purple-500/50" } ]
 
   const BalloonComponent = ({ balloon }) => (
     <motion.div

@@ -12,18 +12,18 @@ export default function FinalScreen() {
   const [showOverlay, setShowOverlay] = useState(false)
   const messageRef = useRef(null)
 
-  const proposalMessage = `From the moment you came into my life, everything started to change.  
-You brought colors to my ordinary days, warmth to my silence, and a happiness I didn’t even know I was missing.  
+  const proposalMessage = `
+  Dear KHU, 
+  Ever since I saw you, I realized something—I like you, really a lot.
+You’ve brought a spark to my ordinary days, laughter to my quiet moments, and a joy I didn’t even know I was missing.
 
-Every sunrise feels brighter because of you.  
-Every dream feels possible because you inspire me.  
-Every challenge feels easier because I imagine you by my side.  
+Every time I see you, the world feels brighter.
 
-You are not just my friend, you’re the most special part of my life.  
-You make me smile, you make my heart race, and you make me want to be a better version of myself.  
+You make me smile, you make my heart beat faster, and you make me want to be a better version of myself.
 
-I don’t know what the future holds, but I know one thing for sure.
-I want that future with you.`
+I don’t know what the future holds, but one thing is clear.
+You are different from other girls yaar
+I LIKE YOU KHU.`
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
@@ -269,7 +269,7 @@ I want that future with you.`
               <motion.p
                 className="text-3xl md:text-4xl text-pink-300 font-semibold"
               >
-                Forever✨
+                Forever KHU✨
               </motion.p>
             </motion.div>
           </motion.div>
