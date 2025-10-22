@@ -13,19 +13,17 @@ export default function FinalScreen() {
   const messageRef = useRef(null)
 
   const proposalMessage = `
-  Dear KHU, 
-  Ever since I saw you, I realized something—I like you, really a lot.
-You’ve brought a spark to my ordinary days, laughter to my quiet moments, and a joy I didn’t even know I was missing.
-
-Every time I see you, the world feels brighter.
-
-You make me smile, you make my heart beat faster, and you make me want to be a better version of myself.
-
-I don’t know what the future holds, but one thing is clear.
-You are different from other girls yaar
-Bas apko dekha baar se hi mera day ban jata hai yaar 
-and please ye kisi ko send mat karna apne tak hi rakhna
-I LIKE YOU KHU.`
+  Dear Riya(Urf Luli), 
+  I want to say something 🤣🤣🤣🤣🤣
+  That is 
+  Can you come today for watch TV 😂😂😂😂🤣🤣😁😁
+  We can take a enjoy during watching a TV 
+  And we watch anything like Something from Laptop like Ghappa-ghap 🤣🤣😂😂😂🤣😁😁😁
+  So can you come to watch a TV with me
+  If mood is on Peak we can also take more enjoy but i can't do my enjoy like Gooookk-goookkk means by do fuck
+  I want to take a enjoy by my hand on your billli means pussy cat 🤣🤣🤣🤣😂😂😂😁😁😁😁
+  So can you ready to do that RIYA(URF LULI)
+  bhut time laga hai isse bnane me bhi to kam se kam itna effort kiya hai iske liye hi aa jaio atleast.`
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
