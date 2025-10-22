@@ -30,11 +30,11 @@ export default function ProposalSite() {
     <div className="min-h-screen bg-gradient-to-br from-fuchsia-950/30 via-black/70 to-rose-950/40 relative overflow-hidden">
 
       <AnimatePresence mode="wait">
-        {isLoading && <CuteLoader key="loader" onComplete={() => setCurrentScreen("final")} />}
+        {isLoading && <CuteLoader key="loader" onComplete={() => setCurrentScreen("first")} />}
 
-        {/* {currentScreen === "first" && <FirstScreen key="first" onNext={() => nextScreen("question1")} />}
+        {currentScreen === "first" && <FirstScreen key="first" onNext={() => nextScreen("final")} />}
 
-        {currentScreen === "question1" && (
+        {/* {currentScreen === "question1" && (
           <QuestionScreen
             key="question1"
             question="Do you like surprises KHU?"
