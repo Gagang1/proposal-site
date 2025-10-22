@@ -37,7 +37,7 @@ export default function ProposalSite() {
         {currentScreen === "question1" && (
           <QuestionScreen
             key="question1"
-            question="Do you like surprises KHU?"
+            question="Do you like surprises?"
             onYes={() => nextScreen("balloons")}
             isFirst={true}
           />
