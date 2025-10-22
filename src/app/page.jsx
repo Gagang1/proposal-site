@@ -32,7 +32,7 @@ export default function ProposalSite() {
       <AnimatePresence mode="wait">
         {isLoading && <CuteLoader key="loader" onComplete={() => setCurrentScreen("first")} />}
 
-        {currentScreen === "first" && <FirstScreen key="first" onNext={() => nextScreen("question1")} />}
+        {/* {currentScreen === "first" && <FirstScreen key="first" onNext={() => nextScreen("question1")} />}
 
         {currentScreen === "question1" && (
           <QuestionScreen
@@ -54,7 +54,7 @@ export default function ProposalSite() {
 
         {currentScreen === "balloons" && <BalloonsScreen key="balloons" onNext={() => nextScreen("photos")} />}
 
-        {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("question2")} />}
+        {currentScreen === "photos" && <PhotoScreen key="photos" onNext={() => nextScreen("question2")} />} */}
 
         {currentScreen === "final" && <FinalScreen key="final" />}
       </AnimatePresence>
