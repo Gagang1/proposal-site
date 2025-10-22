@@ -23,7 +23,13 @@ export default function FinalScreen() {
   If mood is on Peak we can also take more enjoy but i can't do my enjoy like Gooookk-goookkk means by do fuck
   I want to take a enjoy by my hand on your billli means pussy cat 🤣🤣🤣🤣😂😂😂😁😁😁😁
   So can you ready to do that RIYA(URF LULI)
-  bhut time laga hai isse bnane me bhi to kam se kam itna effort kiya hai iske liye hi aa jaio atleast.`
+  bhut time laga hai isse bnane me bhi to kam se kam itna effort kiya hai iske liye hi aa jaio atleast or bho jo file send ki thi 
+  bho KALI TOOL HYDRA KI report the password attack ki jo mene kiya tha kal or aaj toda bhaut bho to 
+  ho gya
+  Par ye aab special banaya hai tere liye taki to maan jaye aane ko niche jo mene upper likha hai usko 
+  padke
+  
+  So can you come Reply is necessary. `
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
