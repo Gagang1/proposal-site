@@ -25,7 +25,7 @@ export default function FinalScreen() {
   kese kaho ki me tume bahut pasand karta ho 
 
   " KABHI KABHI TUM ITNA SIDDAT SE YAAD AATE HO
-  KI TUM KAHI BHI HO KAISE BHI KARKE TUMARE PASS AA JAO 💕💕💕💕💕"
+  KI TUM KAHI BHI HO KAISE BHI KARKE TUMARE PASS AA JAOO 💕💕💕💕💕"
   
   I LIKE YOU SO SO SO MUCH 
   
@@ -281,7 +281,7 @@ export default function FinalScreen() {
               <motion.p
                 className="text-3xl md:text-4xl text-pink-300 font-semibold"
               >
-                Forever KHU✨
+                Forever✨
               </motion.p>
             </motion.div>
           </motion.div>
