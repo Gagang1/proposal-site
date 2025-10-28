@@ -13,23 +13,29 @@ export default function FinalScreen() {
   const messageRef = useRef(null)
 
   const proposalMessage = `
-  Dear Riya(Urf Luli), 
-  I want to say something 🤣🤣🤣🤣🤣
-  That is 
-  Can you come today for watch TV 😂😂😂😂🤣🤣😁😁
-  We can take a enjoy during watching a TV 
-  And we watch anything like Something from Laptop like Ghappa-ghap 🤣🤣😂😂😂🤣😁😁😁
-  So can you come to watch a TV with me
-  If mood is on Peak we can also take more enjoy but i can't do my enjoy like Gooookk-goookkk means by do fuck
-  I want to take a enjoy by my hand on your billli means pussy cat 🤣🤣🤣🤣😂😂😂😁😁😁😁
-  So can you ready to do that RIYA(URF LULI)
-  bhut time laga hai isse bnane me bhi to kam se kam itna effort kiya hai iske liye hi aa jaio atleast or bho jo file send ki thi 
-  bho KALI TOOL HYDRA KI report the password attack ki jo mene kiya tha kal or aaj toda bhaut bho to 
-  ho gya
-  Par ye aab special banaya hai tere liye taki to maan jaye aane ko niche jo mene upper likha hai usko 
-  padke
+  Dear My Cutie,
+  This is for you only once you see this i will delete from the story
+  From that time i see you i can fall for you badly
+  firstly i like your eyes and i can fall for them
+  i don't know how but YES i Like you badly
+
+  i kwow this not well to say like that 
+  but yaar kiya karo naa kehe paa raha ho naa sahi se jata paa raha ho
+
+  kese kaho ki me tume bahut pasand karta ho 
+
+  " KABHI KABHI TUM ITNA SIDDAT SE YAAD AATE HO
+  KI TUM KAHI BHI HO KAISE BHI KARKE TUMARE PASS AA JAO 💕💕💕💕💕"
   
-  So can you come Reply is necessary. `
+  I LIKE YOU SO SO SO MUCH 
+  
+  once you will watch this story i will remove that and disable this complete project or code as well.
+  
+  but my feeling is true
+  bho kehte hai naa,
+
+  "Mat pucho kaise guzarta hai har pal tumare bina,
+  kabhi baat karne ki hasrat to kabhi dekhne ki tamanna  ❤️❤️❤️" `
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
